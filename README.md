@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm sanathan</h1>
 <h3 align="center">I'm web developer makes web development easy for you.</h3>
+<hr> 
 
 <p align="left"> <a href="https://twitter.com/sanathan_" target="blank"><img src="https://img.shields.io/twitter/follow/sanathan_?logo=twitter&style=for-the-badge" alt="sanathan_" /></a> </p>
 <img align="right" alt="coding" width="400" height="250" src="https://media.istockphoto.com/vectors/concept-of-elearning-online-education-at-home-3d-realistic-vector-vector-id1325167730?k=20&m=1325167730&s=612x612&w=0&h=uU73irGkomGikSOnvY5Y8smg7Xhu7PGzDM4FlWvCsEY=">
 
-- 🌱 I’m currently learning **html,css,javascript**
+- 🌱 I’m currently learning **JavaScript & React**
 
 - 💬 Ask me about **web development**
+
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
