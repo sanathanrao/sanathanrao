@@ -10,7 +10,7 @@
 
 ### ⚙️ Tech Stack & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,html,css,javascript,java,git" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js,java,git" />
 </p>
 
 ---
