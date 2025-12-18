@@ -3,7 +3,7 @@
 ![Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=4DD0E1&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Sanathan+Rao;Full+Stack+Web+Developer;Open+Source+Contributor;)
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHNteHk5YzYxZ2tzOG1sNjgycXA0ZnhwcnNzOTk0eW5icTg1Z2l1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vVzH2XY3Y0Ar6/giphy.gif" width="280" />
+  <img src="https://media3.giphy.com/media/1KllEBZdsLBwt3sDMG/giphy.webp" width="280" />
 </div>
 
 ---
